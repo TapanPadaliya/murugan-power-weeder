@@ -1,5 +1,4 @@
 <template>
-  <div>
-    <NuxtWelcome />
-  </div>
+  <div>Murugan power Weeder</div>
 </template>
+<script setup></script>
