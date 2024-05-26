@@ -1,5 +1,4 @@
-// https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: false },
-  modules: ["@nuxt/ui", "nuxt-icon"],
+  modules: ["@nuxt/ui", "nuxt-icon", "@nuxtjs/google-fonts"],
 });
